@@ -17,3 +17,7 @@ See https://github.com/Jintram/WehrensKrah_2023_CRP for the repository that hold
 See https://github.com/vanrooij-lab/scRNAseq-HCM-human for the repository that holds analyses of my recently publisehed paper regarding analyses of scRNA-seq data of diseased human heart cells.
 - _Wehrens, M., Leeuw, A.E. de, Wright-Clark, M., Eding, J.E.C., Boogerd, C.J., Molenaar, B., Kraak, P.H. van der, Kuster, D.W.D., Velden, J. van der, Michels, M., et al. (2022). Single-cell transcriptomics provides insights into hypertrophic cardiomyopathy. Cell Reports._
 
+# Find me elsewhere
+
+- LinkedIn: https://www.linkedin.com/in/martijn-wehrens/
+- Google Scholar: https://scholar.google.com/citations?user=83P-0t8AAAAJ&hl=en
