@@ -1,10 +1,15 @@
 
 
+
+# About Martijn
 I apply data science, image and bio-informatic analyses to biological data.
 
-Currently, I'm working in the Van Rooij lab at the Hubrecht.
 
-See https://github.com/vanrooij-lab/ for some of the repositories I recently worked on that are public.
+Currently, I'm working in the Van Rooij lab at the Hubrecht. See https://github.com/vanrooij-lab/ for some of the repositories I recently worked on that are public. 
+
+
+# Some highlights
+
 
 See https://github.com/Jintram/WehrensKrah_2023_CRP for the repository that holds analyses of my recent paper based on work I did with the Tans lab,
 Wehrens, M., Krah, L.H.J., Towbin, B.D., Hermsen, R., and Tans, S.J. (2023). The interplay between metabolic stochasticity and cAMP-CRP regulation in single E. coli cells. Cell Reports.
