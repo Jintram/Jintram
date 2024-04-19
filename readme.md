@@ -2,7 +2,7 @@
 
 
 # About Martijn
-I apply data science, image and bio-informatic analyses to biological data.
+I apply data science methods, image analyses and bio-informatic analyses to biological data.
 
 
 Currently, I'm working in the Van Rooij lab at the Hubrecht. See https://github.com/vanrooij-lab/ for some of the repositories I recently worked on that are public. 
