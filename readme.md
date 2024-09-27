@@ -5,7 +5,9 @@
 I apply data science methods, image analyses and bio-informatic analyses to biological data.
 
 
-Currently, I'm working in the Van Rooij lab at the Hubrecht. See https://github.com/vanrooij-lab/ for some of the repositories I recently worked on that are public. 
+<!--Currently, I'm working in the Van Rooij lab at the Hubrecht. See https://github.com/vanrooij-lab/ for some of the repositories I recently worked on that are public. -->
+
+I'm currently member of the Data Science team at the UvA biology department, and I'm embedded in the Goedhart/Gadella research group (http://www.molcyto.nl/), where I perform (image) analysis of advanced microscopy.
 
 
 # Some highlights
