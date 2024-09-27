@@ -11,7 +11,7 @@ I am currently member of the Data Science team at the UvA biology department, an
 ## Previous positions
 - Postdoctoral Researcher at Hubrecht Institute (Utrecht). Molecular Cardiology, Van Rooij group. Working mostly on RNA-Seq.
 - PhD Student at AMOLF (Amsterdam). Biophysics, Tans group. Working on measuring and quantifying gene networks.
-- MSc Student at AMOLF (Amsterdam). Biochemical Networks, Ten Wolde group. Simulating and understanding noise in gene neworks.
+- Intern at AMOLF (Amsterdam). Biochemical Networks, Ten Wolde group. Simulating and understanding noise in gene neworks.
 
 # Some highlights
 
